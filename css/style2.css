@@ -1,0 +1,79 @@
+body {
+  background-color: brown;
+  margin: 0;
+}
+#navbar {
+  background-color: rgb(128, 9, 247);
+  height: 80px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+#container {
+  background-color: beige;
+  height: 230px;
+  margin : 20px;
+  padding: 10px;
+  display: flex;
+}
+#container > div{
+  height: 190px;
+  width: fit-content;
+  align-self: center;
+  margin: 75px;
+text-align: center;
+  background-color: blueviolet;
+justify-content: space-between;
+}
+.mr {
+  margin-left: 200px;
+  float: right;
+
+}
+.ml {
+  float: left;
+  margin-right: 100px;
+}
+
+.boxone {
+  background-color: aquamarine;
+  height: 200px;
+  margin: 18px;
+  padding: 20px;
+  
+}
+.boxtwo {
+  background-color: red;
+  height: 198px;
+  border:4px solid black;
+}
+.right{
+  float: right;
+}
+.right a{
+ color: white;
+
+}
+.left h2{
+  color: white;
+  display: inline;
+}
+.left{
+  float: left;
+  display: flex;
+  align-self: center;
+}
+.left img{
+  height: 50px;
+}
+.right {
+  float: right;
+  display: flex;
+  align-self: center;
+}
+.right a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  display: inline;
+}
