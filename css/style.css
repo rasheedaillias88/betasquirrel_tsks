@@ -1,0 +1,34 @@
+body {
+  background-color: brown;
+  margin: 0;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding: 250px;
+}
+#container {
+  background-color: white;
+  border: 1px solid black;
+  height: 280px;
+  width: 350px;
+  border-radius: 10%;
+  justify-content: space-between;
+}
+.boxes {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+a {
+  color: black;
+  text-decoration: underline;
+  height: 65px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: blue;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
