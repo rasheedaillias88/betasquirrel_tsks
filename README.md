@@ -4,9 +4,11 @@ Tasks from betasquirrel
 
 ## Tasks
 
-| Requirements                        | Output                            |
-| ----------------------------------- | --------------------------------- |
-| ![task_1](task-1/images/task1.jpeg) | ![out 1](task-1/images/task1.png) |
+| Requirements                | Output                    |
+| --------------------------- | ------------------------- | --- |
+| ![Task1](images/task1.jpeg) | ![out1](images/task1.png) |
+| ![Task2](images/task2.jpeg) | ![out2](images/task2.png) |
+| ![Task4](images/task4.jpeg) | ![out3](images/task4.png) |     |
 
 ## Task3
 
@@ -32,6 +34,8 @@ Read the below pages and attend the test
 - `ls` -List contents of a directory. Ex: `ls` list out available diarectory
 - `pwd` -Dispay current working directory path.
 - `cat` -Disply contents of a file.Ex: `cat README.md`
+- `clear`-To clear the screen. EX: `clear`
+- `mkdir` -To create new directory. EX: `mkdir projects`
 
 ## Git Commands
 
