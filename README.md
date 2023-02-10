@@ -4,9 +4,9 @@ Tasks from betasquirrel
 
 ## Tasks
 
-| Requirements                 | Output                     |
-| ---------------------------- | -------------------------- |
-| ![task_1](images/task1.jpeg) | ![out 1](images/task1.png) |
+| Requirements                        | Output                            |
+| ----------------------------------- | --------------------------------- |
+| ![task_1](task-1/images/task1.jpeg) | ![out 1](task-1/images/task1.png) |
 
 ## Task3
 
