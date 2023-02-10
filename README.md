@@ -4,6 +4,10 @@ Tasks from betasquirrel
 
 ## Tasks
 
+| Requirements                 | Output                     |
+| ---------------------------- | -------------------------- |
+| ![task_1](images/task1.jpeg) | ![out 1](images/task1.png) |
+
 ## Task3
 
 Read the below pages and attend the test
