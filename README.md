@@ -2,6 +2,10 @@
 
 Tasks from betasquirrel
 
+## Demo
+
+- [Live](https://rasheedaillias88.github.io/betasquirrel_tsks/)
+
 ## Tasks
 
 | Requirements                | Output                    |
