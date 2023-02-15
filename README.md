@@ -63,7 +63,7 @@ Read the below pages and attend the test
 9. `git status` -To see changes as list.
 10. `git diff` -See the changes.
 11. `git log` -To see commit changes.
-12. `git slash` -TO slash your uncommitted changes.
+12. `git stash` -TO stash your uncommitted changes.
 13. `git init` -To initialise git repository.
 
 ## Task 5
