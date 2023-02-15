@@ -6,6 +6,12 @@ Tasks from betasquirrel
 
 - [Live](https://rasheedaillias88.github.io/betasquirrel_tsks/)
 
+## Profile Links
+
+- [Git hub](https://github.com/rasheedaillias88)
+- [Linked In](https://www.linkedin.com/in/rasheeda-illias-3aab52265/)
+- [Stack Overflow](https://stackoverflow.com/users/21203562/rasheedaillias)
+
 ## Tasks
 
 | Requirements                | Output                    |
@@ -40,6 +46,9 @@ Read the below pages and attend the test
 - `cat` -Disply contents of a file.Ex: `cat README.md`
 - `clear`-To clear the screen. EX: `clear`
 - `mkdir` -To create new directory. EX: `mkdir projects`
+- `rm rf` -To remove a file/folder.
+- `ssh-keygen` -Generate ssh-key.
+- `cd..` -TO move to previous folder.
 
 ## Git Commands
 
@@ -48,6 +57,14 @@ Read the below pages and attend the test
 3. `git add` -Add your file changes to git.Ex: `git add README.md`
 4. `git commit`-Commit changes to git.Ex: `git commit -m "initial commit"`
 5. `git push` -Push your local commits to remote repo.Ex `git push origin main`
+6. `git pull` -Pull your tasks from repository.
+7. `git confic --list` -Tosee the confic added.
+8. `git reset --hard` -To remove all changes.
+9. `git status` -To see changes as list.
+10. `git diff` -See the changes.
+11. `git log` -To see commit changes.
+12. `git slash` -TO slash your uncommitted changes.
+13. `git init` -To initialise git repository.
 
 ## Task 5
 
@@ -60,3 +77,7 @@ Read the below pages and attend the test
 - [HTML Table Colspan&Rowpan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
+- [HTML List](https://www.w3schools.com/html/html_lists.asp)
+- [Block&Inline](https://www.w3schools.com/html/html_blocks.asp)
+- [Classes](https://www.w3schools.com/html/html_classes.asp)
+- [Id](https://www.w3schools.com/html/html_id.asp)
