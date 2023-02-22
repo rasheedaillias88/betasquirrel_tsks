@@ -6,6 +6,9 @@ body {
   background-color: #543561;
   height: 80px;
   margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 #main_container {
   background-color: #d1d8e8;
@@ -33,12 +36,16 @@ div {
 }
 .left {
   float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .right {
   float: right;
 }
 .left img {
   height: 60px;
+  padding-right: 15px;
 }
 .left h2 {
   display: inline;
@@ -46,10 +53,6 @@ div {
 }
 .right a {
   color: white;
-}
-@media screen and (max-width: 620px) {
-  .boxes {
-    width: calc(100vw - 45px);
-    margin: 0 15px 15px 15px;
-  }
+  text-decoration: none;
+  padding: 15px;
 }

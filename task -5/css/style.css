@@ -1,0 +1,87 @@
+body {
+  background-color: white;
+  margin: auto;
+}
+#navbar {
+  height: 90px;
+  border-bottom: 1px solid black;
+}
+#logo_container {
+  width: 300px;
+  display: flex;
+  float: left;
+  justify-content: flex-start;
+}
+#logo_container img {
+  height: 40px;
+  padding: 15px;
+}
+#profile_container > img {
+  width: 80px;
+  padding: 5px;
+  float: right;
+  border-radius: 50%;
+  justify-content: flex-end;
+}
+#main {
+  justify-content: baseline;
+  display: flex;
+  align-items: flex-start;
+}
+#sidebar {
+  border-right: 1px solid black;
+  height: 600px;
+  overflow: hidden;
+}
+#sidebar nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px 15px 15px 15px;
+  overflow: hidden;
+}
+#sidebar nav > a {
+  text-decoration: none;
+  padding: 0 30px 25px 0;
+  text-align: center;
+  color: black;
+}
+#sidebar nav a :first-child {
+  padding-top: 4px;
+}
+#main_container {
+  height: 90px;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+}
+#headbar {
+  height: 90px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.h2 {
+  float: left;
+  margin: 15px;
+}
+.h3 {
+  float: right;
+  margin: 30px;
+}
+button {
+  background-color: blue;
+  text-decoration: none;
+  color: black;
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td,
+tr {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: left;
+}
